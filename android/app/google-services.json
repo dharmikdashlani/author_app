@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477373769711",
+    "project_id": "author-registration-fb486",
+    "storage_bucket": "author-registration-fb486.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477373769711:android:0bf9287981d4e69a50f81a",
+        "android_client_info": {
+          "package_name": "com.h12.author_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477373769711-6jbckvtgnica63opitcrh1dtps7vbr0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5YRErSgZpr6QrefF8p-Wu7HIkqYymeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477373769711-6jbckvtgnica63opitcrh1dtps7vbr0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
